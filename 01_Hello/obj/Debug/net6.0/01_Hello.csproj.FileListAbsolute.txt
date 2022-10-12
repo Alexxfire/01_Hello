@@ -1,0 +1,15 @@
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\bin\Debug\net6.0\01_Hello.exe
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\bin\Debug\net6.0\01_Hello.deps.json
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\bin\Debug\net6.0\01_Hello.runtimeconfig.json
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\bin\Debug\net6.0\01_Hello.dll
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\bin\Debug\net6.0\01_Hello.pdb
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\obj\Debug\net6.0\01_Hello.csproj.AssemblyReference.cache
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\obj\Debug\net6.0\01_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\obj\Debug\net6.0\01_Hello.AssemblyInfoInputs.cache
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\obj\Debug\net6.0\01_Hello.AssemblyInfo.cs
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\obj\Debug\net6.0\01_Hello.csproj.CoreCompileInputs.cache
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\obj\Debug\net6.0\01_Hello.dll
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\obj\Debug\net6.0\refint\01_Hello.dll
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\obj\Debug\net6.0\01_Hello.pdb
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\obj\Debug\net6.0\01_Hello.genruntimeconfig.cache
+C:\Users\AOgonkov\Documents\Github\C#\01_Hello\obj\Debug\net6.0\ref\01_Hello.dll
